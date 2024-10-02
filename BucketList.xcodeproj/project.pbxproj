@@ -11,6 +11,16 @@
 		182432532C6DC7E5006129DC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182432522C6DC7E5006129DC /* ContentView.swift */; };
 		182432552C6DC7E7006129DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 182432542C6DC7E7006129DC /* Assets.xcassets */; };
 		182432582C6DC7E7006129DC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 182432572C6DC7E7006129DC /* Preview Assets.xcassets */; };
+		182E62282C6E368E0073790D /* Comparable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182E62272C6E368E0073790D /* Comparable.swift */; };
+		182E622A2C6E36B00073790D /* URLDirectory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182E62292C6E36B00073790D /* URLDirectory.swift */; };
+		182E62462C730BDE0073790D /* MapKitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182E62452C730BDE0073790D /* MapKitView.swift */; };
+		1889A89A2C76367F00A18BFA /* LocationMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1889A8992C76367F00A18BFA /* LocationMapView.swift */; };
+		1889A89C2C766C6F00A18BFA /* FaceIDView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1889A89B2C766C6F00A18BFA /* FaceIDView.swift */; };
+		189E82942C76F9FF00238AD8 /* BucketListProject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189E82932C76F9FF00238AD8 /* BucketListProject.swift */; };
+		189E82962C7702C500238AD8 /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189E82952C7702C500238AD8 /* Location.swift */; };
+		189E82982C77247800238AD8 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189E82972C77247800238AD8 /* EditView.swift */; };
+		189E829A2C77B59100238AD8 /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189E82992C77B59100238AD8 /* Result.swift */; };
+		189E829C2C785AFE00238AD8 /* BucketListProject-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189E829B2C785AFE00238AD8 /* BucketListProject-ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +29,16 @@
 		182432522C6DC7E5006129DC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		182432542C6DC7E7006129DC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		182432572C6DC7E7006129DC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		182E62272C6E368E0073790D /* Comparable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Comparable.swift; sourceTree = "<group>"; };
+		182E62292C6E36B00073790D /* URLDirectory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLDirectory.swift; sourceTree = "<group>"; };
+		182E62452C730BDE0073790D /* MapKitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapKitView.swift; sourceTree = "<group>"; };
+		1889A8992C76367F00A18BFA /* LocationMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationMapView.swift; sourceTree = "<group>"; };
+		1889A89B2C766C6F00A18BFA /* FaceIDView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceIDView.swift; sourceTree = "<group>"; };
+		189E82932C76F9FF00238AD8 /* BucketListProject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BucketListProject.swift; sourceTree = "<group>"; };
+		189E82952C7702C500238AD8 /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
+		189E82972C77247800238AD8 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
+		189E82992C77B59100238AD8 /* Result.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Result.swift; sourceTree = "<group>"; };
+		189E829B2C785AFE00238AD8 /* BucketListProject-ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BucketListProject-ViewModel.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +73,16 @@
 			children = (
 				182432502C6DC7E5006129DC /* BucketListApp.swift */,
 				182432522C6DC7E5006129DC /* ContentView.swift */,
+				189E829B2C785AFE00238AD8 /* BucketListProject-ViewModel.swift */,
+				1889A8992C76367F00A18BFA /* LocationMapView.swift */,
+				189E82972C77247800238AD8 /* EditView.swift */,
+				182E62272C6E368E0073790D /* Comparable.swift */,
+				182E62452C730BDE0073790D /* MapKitView.swift */,
+				189E82932C76F9FF00238AD8 /* BucketListProject.swift */,
+				189E82992C77B59100238AD8 /* Result.swift */,
+				189E82952C7702C500238AD8 /* Location.swift */,
+				1889A89B2C766C6F00A18BFA /* FaceIDView.swift */,
+				182E62292C6E36B00073790D /* URLDirectory.swift */,
 				182432542C6DC7E7006129DC /* Assets.xcassets */,
 				182432562C6DC7E7006129DC /* Preview Content */,
 			);
@@ -137,8 +167,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				182E62282C6E368E0073790D /* Comparable.swift in Sources */,
+				182E622A2C6E36B00073790D /* URLDirectory.swift in Sources */,
+				182E62462C730BDE0073790D /* MapKitView.swift in Sources */,
+				189E82942C76F9FF00238AD8 /* BucketListProject.swift in Sources */,
+				189E82962C7702C500238AD8 /* Location.swift in Sources */,
 				182432532C6DC7E5006129DC /* ContentView.swift in Sources */,
+				189E82982C77247800238AD8 /* EditView.swift in Sources */,
+				1889A89C2C766C6F00A18BFA /* FaceIDView.swift in Sources */,
+				1889A89A2C76367F00A18BFA /* LocationMapView.swift in Sources */,
 				182432512C6DC7E5006129DC /* BucketListApp.swift in Sources */,
+				189E829C2C785AFE00238AD8 /* BucketListProject-ViewModel.swift in Sources */,
+				189E829A2C77B59100238AD8 /* Result.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +315,7 @@
 				DEVELOPMENT_TEAM = UXPFR8BLZ6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSFaceIDUsageDescription = "We need to unlock your data.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -304,6 +345,7 @@
 				DEVELOPMENT_TEAM = UXPFR8BLZ6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSFaceIDUsageDescription = "We need to unlock your data.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
